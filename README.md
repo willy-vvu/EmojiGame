@@ -6,7 +6,7 @@
 
 A quick game made entirely of Emoji. No text allowed.
 
-[Play in Browser](https://willy-vvu.github.io/EmojiGame)
+[Play in Browser](https://willy-vvu.github.io/EmojiGame/)
 
 Use Arrow Keys to move, Z to Attack/Collect items, and X to Drop/Reorder Items.
 

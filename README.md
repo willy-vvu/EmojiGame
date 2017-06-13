@@ -4,7 +4,7 @@
 
 🎮✏️🚫🔤
 
-A quick game made entirely of Emoji. No text allowed.
+A quick game made entirely of emoji. No text allowed.
 
 [Play in Browser](https://willy-vvu.github.io/EmojiGame/)
 
@@ -21,6 +21,12 @@ Pays homage to ASCII art games, while inviting inquiry about Emoji, its uses, an
 ![](EmojiGame5.png)
 
 ![](EmojiGame6.png)
+
+---
+
+## Behind the Scenes
+
+I collected my keystrokes while I wrote this project, which I visualized in [another final project](https://github.com/willy-vvu/Changes).
 
 ---
 

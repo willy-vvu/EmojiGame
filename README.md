@@ -34,7 +34,7 @@ Assignment for: 21W.764 Word Made Digital (Final Project)
 
 Learning Focus: Game Design, Language and Meaning, Emoji Rendering
 
-Media: Website, Game, Emoji
+Media: Video Game, Website
 
 Software: JavaScript, Vue.js
 

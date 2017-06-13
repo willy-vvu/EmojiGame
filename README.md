@@ -1,4 +1,4 @@
-# EmojiGame
+# Emoji Game
 
 ![](EmojiGame1.png)
 

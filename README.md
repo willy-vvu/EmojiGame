@@ -1,7 +1,5 @@
 # Emoji Game
 
-![](EmojiGame1.png)
-
 🎮✏️🚫🔤
 
 A quick game made entirely of emoji. No text allowed.
@@ -11,6 +9,8 @@ A quick game made entirely of emoji. No text allowed.
 Use Arrow Keys to move, Z to Attack/Collect items, and X to Drop/Reorder Items.
 
 Pays homage to ASCII art games, while inviting inquiry about Emoji, its uses, and its relation to written language.
+
+![](EmojiGame1.png)
 
 ![](EmojiGame2.png)
 
